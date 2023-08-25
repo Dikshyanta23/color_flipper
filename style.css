@@ -1,0 +1,23 @@
+body {
+  background: #f15205;
+}
+.container {
+  width: 70vw;
+  max-width: 500px;
+  margin: 4rem auto;
+  background: white;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+
+}
+.btn {
+  padding: 0.5rem;
+  border-radius: .5rem;
+  border: transparent;
+  background: #f15205;
+}
