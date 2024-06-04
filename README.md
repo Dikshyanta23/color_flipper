@@ -1,4 +1,4 @@
 # color_flipper
-Generate random shades of beautiful colors on to the screen
+Generates a kaleidoscope of  random shades of CSS colors on to the screen
 
 Link to the website: https://colorflipperdk.netlify.app
